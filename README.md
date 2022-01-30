@@ -95,8 +95,16 @@ Welsh | [Gairglo](https://www.hiriaith.cymru/gairglo) | -
 Yiddish | [ווערטל](https://greenwichmeanti.me/wordle/) | [GitHub](https://github.com/gbear605/wordle-yiddish)
 
 ## Non-linguistic
+Language | Name | Source code
+--- | --- | ---
 Prime numbers | [Primel](https://converged.yt/primel/) | [GitHub](https://github.com/dill/primel)
 Number | [Nerdle](https://nerdlegame.com/) | -
 
 ## To make your own wordle
 https://github.com/roedoejet/AnyLanguage-Wordle
+
+## Contributing
+All contributions are appreciated to make this collection complete and perfect.
+
+## Acknowledgement
+Most of the materials are collected from the [link](https://rwmpelstilzchen.gitlab.io/wordles/).
